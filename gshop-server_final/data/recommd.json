@@ -1,0 +1,153 @@
+[
+	{
+	 "city":"成都市",
+	 "province":"四川省",
+	 "childfoods":[
+	 	
+	 ],
+	 "childhouse":[
+
+	 ],
+	 "childSpots":
+	 [
+	 	{
+		"id":"001",		
+		"name":"黄龙/小九寨/藏寨三日游",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"380",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+
+
+	 	},
+	 	{
+		"id":"001",		
+		"name":"峨眉山/乐山大佛0自费2日游(住峨眉准五星酒店)",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"380",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游 乐园游 蜜月游 爸妈游 亲子游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+	    
+
+	 	},
+	 	{
+		"id":"001",		
+		"name":"都江堰/青城山/街子古镇一日有(纯玩）",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"240",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+	    
+	 	}
+
+	 ]
+    },
+
+    {
+	 "city":"成都市",
+	 "province":"四川省",
+	 "childSpots":
+	 [
+	 	{
+		"id":"001",		
+		"name":"黄龙/小九寨/藏寨三日游",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"380",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+
+
+	 	},
+	 	{
+		"id":"001",		
+		"name":"峨眉山/乐山大佛0自费2日游(住峨眉准五星酒店)",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"380",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游 乐园游 蜜月游 爸妈游 亲子游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+	    
+
+	 	},
+	 	{
+		"id":"001",		
+		"name":"都江堰/青城山/街子古镇一日有(纯玩）",
+	    "description":"",
+	    "type":"参团游",
+	    "lowPrice":"380元",
+	    "imgUrl":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/resize%2Cw_900.jpg?q-sign-algorithm=sha1&q-ak=AKIDxu24TYNuwk0m9ajgE8aBffjAmFeQmmxs3c5Vf8SJyPUq23JrBBycGsh6Y1fmNtSl&q-sign-time=1565178514;1565182114&q-key-time=1565178514;1565182114&q-header-list=&q-url-param-list=&q-signature=4855286eff3f76a06a98fa5453c6982ce2bba98c&x-cos-security-token=M2EOSQojui47cjGCyD0pZpNmZZJCVGqm92992d4589259f2c88934026a03d083anoT-dfi8qN-KZLKuAxvNyXGTZapoHrhh0-XLUxH-YPRamS9HsS-nb7ARpF657CHLJWWG3sKztmu3B2tUH-4oC79OR_LBEmLhEuKbvmsj8CFc8d9QcMALGOXHUk13KTOwHzTYzMAr1qcGpVn1Tnu9lGsz6GH--afTCKQL_w57iEg" ,
+
+	    "orderdetail":{
+	    	"lowPrice1":"240",
+	    	"Line_number":"huanglong1123",
+	    	"Booking_to_remind":"建议提前三天",
+	    	"Line_type":"古镇游",
+	    	"Line_type":"山水游",
+	    	"transportation":"汽车",
+	    	"adult_ticket":"380元/成人",
+	    	"children_ticket":"280元/儿童"
+	              }
+	    
+	 	}
+
+	 ]
+    }
+    	
+    	
+
+
+]

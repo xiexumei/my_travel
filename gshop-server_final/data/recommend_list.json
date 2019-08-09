@@ -1,0 +1,80 @@
+[
+	{
+     "city":"泉州市",
+     "childArr":[
+          {
+          "type":"酒店",
+          "hotels":[
+               {
+               "title":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "imgUrl1":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/1.jpg?q-sign-algorithm=sha1&q-ak=AKIDkerp2Fy5n5sh3fwmUiZAcYrHhnVT_sWfhrpQg55V-klODs2s-bRbJcy8CCTMwsfZ&q-sign-time=1565254258;1565257858&q-key-time=1565254258;1565257858&q-header-list=&q-url-param-list=&q-signature=f5d81f5298c44b6515233e125fb6de3a5406263c&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686la2a08721008a5efb020a28f01f86d61a6gLGg9euf0Uv6H26Olm9LH6HYcIP5A5mvQqTfl_0V5GxyoATNI-wyH1cMKBw420s4KkQsMMOVYDs05THO0mfzI479nnE9H1B95kAGEU3IugPgpQucR-sSIhOZkPLgob1yfbsCJrADq87Ihdkd5R52Uik_-uau79lnhnxc9obMNQ",
+               "imgUrl2":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/10.jpg?q-sign-algorithm=sha1&q-ak=AKIDAeZFBaP4ZddcJnJU8J5YGsHSrvYeRZTGtQFwtyb1NWtLNMIgACLi7ImIc_XO4shd&q-sign-time=1565254305;1565257905&q-key-time=1565254305;1565257905&q-header-list=&q-url-param-list=&q-signature=40b15e4d377609c04055d2b8d30fb0b68f0abb36&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lcd3455bba22e8457b9071f0ff16198986gLGg9euf0Uv6H26Olm9LMjaT9iZAN8_GHrLSK5T2J8F4Xy6EYMz9g2NZUhIR5Np89g1tqNnVa4-ZSgrhfNJMjmAH_rH47YvlDx71tUBEpHrJ0Cz2T5kORBGg2OfRPBD62jSWv3M2immcxTHSeKvhSUQzg00X3D4rFVVKza3EFU",
+               "imgUrl3":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/11.jpg?q-sign-algorithm=sha1&q-ak=AKIDBPtHK_2oxbissBmamm4l2LSadep-Y-Cq1xD7_yjLebA7Ntc8aft42tVlKhvmhjd7&q-sign-time=1565254328;1565257928&q-key-time=1565254328;1565257928&q-header-list=&q-url-param-list=&q-signature=0a6e1611a59b7bf0811b70889f0be92b7d07b801&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lf432a508ffe2ab1b373be0e0774a37c26gLGg9euf0Uv6H26Olm9LPlZmsLXAyGb5fl6IfLOPfH14b1zJuOIX_NkfWlo8zycw4--YSdh68a8bZM4fGJL7xrVk3jdN0GN57Sua08g9el31SapgtMgrSSya-8wzWiZFRRq4w7hvCscTvafFx5_V1GMrJNp2nUyTpan2VvluXA",
+               "sale":"2",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500"
+              },
+
+              {
+               "title":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "imgUrl1":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/12.jpg?q-sign-algorithm=sha1&q-ak=AKIDXSM_1JSPYXMAZE99sb-O037YVhRm5NCqhSFaP3GHDVNPvsFS6Gfrjw7gF94gjRMb&q-sign-time=1565254368;1565257968&q-key-time=1565254368;1565257968&q-header-list=&q-url-param-list=&q-signature=f51af0e89a13b28ffb33e35b378beee17f055e90&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686l95cf6b99bfca67e4261bb11a47290b566gLGg9euf0Uv6H26Olm9LMtqg0j07dHcZ1q4tMEfVv6JZNLgjn6frEehv1iFNb-Bv1PYv1wKTNCJgRIDKgg5zCZoN5zLcD2hdZqWqm4xl6fAQ6WDThLa5FkmwWaWQAsz-ewaiSnG_uWWkyPfg1HZhfFaMijbx2d5N11924UZijg",
+               "imgUrl2":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/14.jpg?q-sign-algorithm=sha1&q-ak=AKIDLBtMm8JPqdw1BJZ915ZbspPi_xioYIN510s9PNV0f-t76iUZWB5KH40gwZkvXMT9&q-sign-time=1565254408;1565258008&q-key-time=1565254408;1565258008&q-header-list=&q-url-param-list=&q-signature=6870bbf944934cbd6e4f5b74a40f47d4b6d3e228&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lf6d4cdda4114810ff695240a5d9267566gLGg9euf0Uv6H26Olm9LLpbPNGGOzpE6eEkFyzo2UfdpfeXbOD53V_GyAUDgXcYKe2Rrm_S7CtL0mS6CQMVLoboY0-16XCFcsWRz8zasL49qKm1Faxg7N1fC7-qEpafQs1obQKdHF95pKY3KpfY7zTm_uKTEG2uqrKJRB57DNw",
+               "imgUrl3":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/2.jpg?q-sign-algorithm=sha1&q-ak=AKIDJGq0Q_8cobUHWVaNDEq53fAGWVSebE5noDLV5FNNPPAMUH5AR3iCvqDIrZs3sc9i&q-sign-time=1565254432;1565258032&q-key-time=1565254432;1565258032&q-header-list=&q-url-param-list=&q-signature=83908e7d848b52cf904cbcd9b0ca11d3b161518b&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lc302240f792f984c2c0100e18d62e6a96gLGg9euf0Uv6H26Olm9LENpSSRFEIhRJ9vPw1dvrQTQF4L7rBoJcVFrbvF1_GhJKz1HoFHXjgUCf3mGtKHYsApkZb1V5o6wGut7zUgwnTwlt-nv6pGsxgX6rSWqh8nCWLL_SX97cR35_i-S80vUKuKbZlyA-6u_Y_GeHUB2YlM",
+               "sale":"2",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500"
+               }
+
+               ]
+
+          }
+     ]
+
+     },
+     
+
+   {
+     "city":"厦门市",
+     "childArr":[
+          {
+          "type":"酒店",
+          "hotels":[
+               {
+               "title":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "imgUrl1":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/1.jpg?q-sign-algorithm=sha1&q-ak=AKIDkerp2Fy5n5sh3fwmUiZAcYrHhnVT_sWfhrpQg55V-klODs2s-bRbJcy8CCTMwsfZ&q-sign-time=1565254258;1565257858&q-key-time=1565254258;1565257858&q-header-list=&q-url-param-list=&q-signature=f5d81f5298c44b6515233e125fb6de3a5406263c&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686la2a08721008a5efb020a28f01f86d61a6gLGg9euf0Uv6H26Olm9LH6HYcIP5A5mvQqTfl_0V5GxyoATNI-wyH1cMKBw420s4KkQsMMOVYDs05THO0mfzI479nnE9H1B95kAGEU3IugPgpQucR-sSIhOZkPLgob1yfbsCJrADq87Ihdkd5R52Uik_-uau79lnhnxc9obMNQ",
+               "imgUrl2":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/10.jpg?q-sign-algorithm=sha1&q-ak=AKIDAeZFBaP4ZddcJnJU8J5YGsHSrvYeRZTGtQFwtyb1NWtLNMIgACLi7ImIc_XO4shd&q-sign-time=1565254305;1565257905&q-key-time=1565254305;1565257905&q-header-list=&q-url-param-list=&q-signature=40b15e4d377609c04055d2b8d30fb0b68f0abb36&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lcd3455bba22e8457b9071f0ff16198986gLGg9euf0Uv6H26Olm9LMjaT9iZAN8_GHrLSK5T2J8F4Xy6EYMz9g2NZUhIR5Np89g1tqNnVa4-ZSgrhfNJMjmAH_rH47YvlDx71tUBEpHrJ0Cz2T5kORBGg2OfRPBD62jSWv3M2immcxTHSeKvhSUQzg00X3D4rFVVKza3EFU",
+               "imgUrl3":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/11.jpg?q-sign-algorithm=sha1&q-ak=AKIDBPtHK_2oxbissBmamm4l2LSadep-Y-Cq1xD7_yjLebA7Ntc8aft42tVlKhvmhjd7&q-sign-time=1565254328;1565257928&q-key-time=1565254328;1565257928&q-header-list=&q-url-param-list=&q-signature=0a6e1611a59b7bf0811b70889f0be92b7d07b801&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lf432a508ffe2ab1b373be0e0774a37c26gLGg9euf0Uv6H26Olm9LPlZmsLXAyGb5fl6IfLOPfH14b1zJuOIX_NkfWlo8zycw4--YSdh68a8bZM4fGJL7xrVk3jdN0GN57Sua08g9el31SapgtMgrSSya-8wzWiZFRRq4w7hvCscTvafFx5_V1GMrJNp2nUyTpan2VvluXA",
+               "sale":"2",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500"
+              },
+
+             {
+               "title":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "imgUrl1":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/12.jpg?q-sign-algorithm=sha1&q-ak=AKIDXSM_1JSPYXMAZE99sb-O037YVhRm5NCqhSFaP3GHDVNPvsFS6Gfrjw7gF94gjRMb&q-sign-time=1565254368;1565257968&q-key-time=1565254368;1565257968&q-header-list=&q-url-param-list=&q-signature=f51af0e89a13b28ffb33e35b378beee17f055e90&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686l95cf6b99bfca67e4261bb11a47290b566gLGg9euf0Uv6H26Olm9LMtqg0j07dHcZ1q4tMEfVv6JZNLgjn6frEehv1iFNb-Bv1PYv1wKTNCJgRIDKgg5zCZoN5zLcD2hdZqWqm4xl6fAQ6WDThLa5FkmwWaWQAsz-ewaiSnG_uWWkyPfg1HZhfFaMijbx2d5N11924UZijg",
+               "imgUrl2":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/14.jpg?q-sign-algorithm=sha1&q-ak=AKIDLBtMm8JPqdw1BJZ915ZbspPi_xioYIN510s9PNV0f-t76iUZWB5KH40gwZkvXMT9&q-sign-time=1565254408;1565258008&q-key-time=1565254408;1565258008&q-header-list=&q-url-param-list=&q-signature=6870bbf944934cbd6e4f5b74a40f47d4b6d3e228&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lf6d4cdda4114810ff695240a5d9267566gLGg9euf0Uv6H26Olm9LLpbPNGGOzpE6eEkFyzo2UfdpfeXbOD53V_GyAUDgXcYKe2Rrm_S7CtL0mS6CQMVLoboY0-16XCFcsWRz8zasL49qKm1Faxg7N1fC7-qEpafQs1obQKdHF95pKY3KpfY7zTm_uKTEG2uqrKJRB57DNw",
+               "imgUrl3":"https://travel-1259696913.cos.ap-chengdu.myqcloud.com/2.jpg?q-sign-algorithm=sha1&q-ak=AKIDJGq0Q_8cobUHWVaNDEq53fAGWVSebE5noDLV5FNNPPAMUH5AR3iCvqDIrZs3sc9i&q-sign-time=1565254432;1565258032&q-key-time=1565254432;1565258032&q-header-list=&q-url-param-list=&q-signature=83908e7d848b52cf904cbcd9b0ca11d3b161518b&x-cos-security-token=87ke6g2w01YqMrv1C0EZRD0LMQQm686lc302240f792f984c2c0100e18d62e6a96gLGg9euf0Uv6H26Olm9LENpSSRFEIhRJ9vPw1dvrQTQF4L7rBoJcVFrbvF1_GhJKz1HoFHXjgUCf3mGtKHYsApkZb1V5o6wGut7zUgwnTwlt-nv6pGsxgX6rSWqh8nCWLL_SX97cR35_i-S80vUKuKbZlyA-6u_Y_GeHUB2YlM",
+               "sale":"2",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500"
+              }
+
+              ]
+
+          }
+     ]
+
+   }
+	
+
+
+
+]
