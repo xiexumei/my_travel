@@ -7,6 +7,8 @@ export default function ajax (url, data={}, type='GET') {
 
   return new Promise(function (resolve, reject) {
     // 执行异步ajax请求
+    var date=new Date();
+    var timer=date.getTime().toString();
     let promise
     if (type === 'GET') {
       // 准备url query参数数据
@@ -16,12 +18,14 @@ export default function ajax (url, data={}, type='GET') {
       })
       if (dataStr !== '') {
         dataStr = dataStr.substring(0, dataStr.lastIndexOf('&'))
-        url = url + '?' + dataStr
+        url = url + '?t='+ timer+'&' + dataStr
       }
       // 发送get请求
+   
       promise = axios.get(url)
     } else {
       // 发送post请求
+      url = url +'?t='+timer
       promise = axios.post(url, data)
     }
     promise.then(function (response) {

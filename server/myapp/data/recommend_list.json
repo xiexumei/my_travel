@@ -1,0 +1,375 @@
+[
+	{
+     "city":"厦门",
+     "childArr":[
+          {
+          "types":"酒店",
+          "datas":[
+               {
+               "id":"xiamenhotel001",
+               "titles":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/XaIqTwemrkUzFQ8.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/FHQ6UJcmReiBCGL.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/cjW2CJeQI5zgnrP.jpg"
+              },
+
+              {
+               "id":"xiamenhotel002",
+               "titles":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/GXC5pt8vR3Eghx2.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/Yz2nXCIb91wlrqG.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/lJ3su1KEOAGFvjD.jpg"
+               },
+
+               {
+               "id":"xiamenhotel003",
+               "titles":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/AnNHUEV5zDXhRPt.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/vfhiKty59wZHgD7.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/Cta8MczJGxHWZDj.jpg"
+               },
+               {
+               "id":"xiamenhotel004",
+               "titles":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/QlNZfyBHJe1aP8m.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/k9c83jCQRvFGNlb.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/UO4qGLZFbxBigEH.jpg"
+               }
+               
+               ]
+
+          },
+          {
+          	"types":"景点",
+          	"datas":[
+          		{
+                         "id":"xiamenspot001",
+          			"titles":"清源山风景区",
+          			"location":"福建省泉州市丰泽区清源山游客中心东侧",
+          			"dateTime":"全年 05:30-19:00；5:30-19:00（夏令）；6:00-18:30（冬令）。具体分界时间点以景区为准。",
+          			"service":"如实描述，低价保障，入园保障，特殊退订",
+          			"price":"65",
+          			"description":"享有闽南蓬莱仙山的美誉,中国国家自然与文化双遗产预备名录我国现存年代早、保存完整元代喇嘛教,三世佛石雕造像",
+          			"ways1":"拜太上老君，登智慧天阶。主要景点：众妙之门、西出函谷关、孔子问礼老子、道德经石刻群、老君岩、智慧天阶(涵宫、元元洞、见龙台、“ 道教圣地”摩崖石刻、无尘台、弘一法师塑像、弘一法师舍利塔)、千手岩等。这条线路是清源山景区的核心。老君造像，雕工精细，形态生动，须眉分明，衣褶清晰，是我国古代古雕艺术中的瑰宝，被誉为“老子天下第一”。 泉州坊间盛传“摸到老君鼻，寿高一百二”，故游清源山者必到此一游。游览时间大约2小时。",
+          			"ways2":"路线二: 步清幽小道，寻多元文化主要景点:势至岩、千手岩、弥陀岩、碧霄岩、瑞像岩等。这条线是清源山的精品线路，漫步清幽小径，轻踱莲花池畔，感受青山的幽雅，沿着一路的桂花香拾级而上，去寻访清源山的多元文化，在不经意间与历史撞个满怀。游览时间:大约3小时",
+                         "ways3":"路线三: 轻车盘山行，采风清源山.主要景点:青牛石、天湖、百丈坪、虎乳泉、清源洞、南台岩。这是清源山的经典线路，轻车慢行在柏油路上，领略清源秀景，俯瞰西湖风光，临风远眺，将大泉州美景尽收眼底，心旷神怡。游览时间:大约2小时。",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/xRiAhTweCLKPgQV.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/jFm4ywGNnUZxtSc.jpg",
+          			"imgUrl3":"https://i.loli.net/2019/08/09/F67VmAvwRNh92Jp.jpg",
+          			"imgUrl4":"https://i.loli.net/2019/08/09/E1w2a9jp3OkZuAL.jpg"
+          		},
+          		{
+                         "id":"xiamenspot002",
+          			"titles":"泉州市武古城",
+          			"location":"福建省惠安县东南海滨",
+          			"dateTime":"3月1日-10月31日（夏季） 07:30-18:30；11月1日-次年2月29日（冬季） 07:30-17:30。",
+          			"service":"如实描述，低价保障，入园保障，特殊退订",
+          			"price":"36",
+          			"description":"系1387年（明洪武二十年）江夏侯周德兴经略海防时为抵御倭寇所建，是万里海疆修筑的60多座卫所城堡中仍保存完好的一座。 崇武古城是中国现存较完整的丁字型石砌古城，是明朝廷为抗击倭患，在万里海疆修筑的60多座卫所城堡中仍保存完好的一座。",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/YykeHd4rEwAIixD.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/mMXIxvsgedWoR9q.jpg",
+          			"imgUrl3":"https://i.loli.net/2019/08/09/EFLnjRdNhJ6Yp3l.jpg",
+          			"imgUrl4":"https://i.loli.net/2019/08/09/hYRZJwvEGfxkitg.jpg"
+          		},
+          		{
+                         "id":"xiamenspot003",
+          			"titles":"晋江五市古城",
+          			"location":"泉州市晋江市梅岭街道五店市传统街区",
+          			"dateTime":"全体",
+          			"service":"如实描述，低价保障，入园保障，特殊退订",
+          			"price":"免费",
+          			"description":"五店市传统文化街区，坐落在许许多多高楼大厦之间，与现代城市文明形成鲜明的对比，就像一个历经沧桑却越发矍铄的老者，洞察着这个历史的变迁。走进五店街，踏着古老的石板路，在阳光的照耀下，穿过小巷穿过风，抚摸着那些岁月洗礼过的砖石，嘴里嚼着棉花糖，手里拿着小时候爱吃的东西，仿佛霎时间穿越了时光隧道，回到了那最无忧无虑的童年。这里的每一座房屋都有属于自己的故事，每一座都在诉说着最独特的闽南建筑学",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/MJOL24qBudaGQzF.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/TsNQci7obnu1GWR.jpg",
+          			"imgUrl3":"https://i.loli.net/2019/08/09/Pqvj5yLrIKfwTiB.jpg",
+          			"imgUrl4":"(https://i.loli.net/2019/08/09/dajWgx21TiYOvb3.jpg"
+          		},
+          		{
+                         "id":"xiamenspot004",
+          			"titles":"惠安西沙湾",
+          			"location":"",
+          			"dateTime":"",
+          			"service":"",
+          			"price":"200",
+          			"description":"",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/NHeAS38kO14GpPU.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/hXMR967A3fNspWF.jpg",
+          			"imgUrl3":"https://i.loli.net/2019/08/09/U5laySArELZTRIP.jpg",
+          			"imgUrl4":"https://i.loli.net/2019/08/09/lJHnvhN6Tcf1i5M.jpg"
+          		}
+          		
+          	]
+          },
+          {
+          	"types":"美食",
+          	"datas":[
+          		{
+                         "id":"xiamenfood001",
+          			"titles":"卤面",
+          			"location":"",
+          			"dateTime":"",
+          			"service":"",
+          			"price":"",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/GAHIDnfbijYsZ1N.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/8gzKxelGYdSoNVM.jpg",
+          			"imgUrl3":"https://i.loli.net/2019/08/09/tz6rFgKIuaYHTkS.jpg"
+          		},
+          		{
+                         "id":"xiamenfood002",
+
+          			"titles":"洪濑",
+          			"location":"",
+          			"dateTime":"",
+          			"service":"",
+          			"price":"",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/6bXZfUwIa2QzMuq.jpg",
+          			"imgUrl2":"https://i.loli.net/2019/08/09/5EuMwGrHT7f9hsY.jpg",
+          			"imgUrl3":""
+          		},
+          		{
+                         "id":"xiamenfood003",
+
+          			"titles":"满煎",
+          			"location":"",
+          			"dateTime":"",
+          			"service":"",
+          			"price":"",
+          			"imgUrl1":"https://i.loli.net/2019/08/09/5H2Eh3MFLDRw716.jpg",
+          			"imgUrl2":"",
+          			"imgUrl3":""
+          		},
+          		{
+                         "id":"xiamenfood004",
+
+
+          			"titles":"肉粽",
+          			"location":"",
+          			"dateTime":"",
+          			"service":"",
+          			"price":"",
+          			"imgUrl1":"",
+          			"imgUrl2":"",
+          			"imgUrl3":""
+          		}
+          		
+          		
+          		
+
+          	]
+          }
+     ]
+
+     },
+     {
+     "city":"泉州",
+     "childArr":[
+          {
+          "types":"酒店",
+          "datas":[
+               {
+               "id":"quanzhouhotel001",
+               "titles":"天空之城",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/XaIqTwemrkUzFQ8.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/FHQ6UJcmReiBCGL.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/cjW2CJeQI5zgnrP.jpg"
+              },
+
+              {
+               "id":"quanzhouhotel002",
+               "titles":"天空之城",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/GXC5pt8vR3Eghx2.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/Yz2nXCIb91wlrqG.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/lJ3su1KEOAGFvjD.jpg"
+               },
+
+               {
+               "id":"quanzhouhotel003",
+               "titles":"天空之城",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/AnNHUEV5zDXhRPt.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/vfhiKty59wZHgD7.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/Cta8MczJGxHWZDj.jpg"
+               },
+               {
+                "id":"quanzhouhotel004",
+               "titles":"天空之城轻奢主题民宿",
+               "location":"丰泽区东海大街东海御花园3号公寓",
+               "price":"200元/天",
+               "sale":"2",
+               "description":"",
+               "service":"二次确认-18:00点定今日产品需要二次确认哟",
+               "vip":"金卡专享96折，年度最高累计抵扣￥500",
+               "imgUrl1":"https://i.loli.net/2019/08/09/QlNZfyBHJe1aP8m.jpg",
+               "imgUrl2":"https://i.loli.net/2019/08/09/k9c83jCQRvFGNlb.jpg",
+               "imgUrl3":"https://i.loli.net/2019/08/09/UO4qGLZFbxBigEH.jpg"
+               }
+               
+               ]
+
+          },
+          {
+               "types":"景点",
+               "datas":[
+                    {
+                         "id":"quanzhouspot001",
+                         "titles":"清源山风景区",
+                         "location":"福建省泉州市丰泽区清源山游客中心东侧",
+                         "dateTime":"全年 05:30-19:00；5:30-19:00（夏令）；6:00-18:30（冬令）。具体分界时间点以景区为准。",
+                         "service":"如实描述，低价保障，入园保障，特殊退订",
+                         "price":"65",
+                         "description":"享有闽南蓬莱仙山的美誉,中国国家自然与文化双遗产预备名录我国现存年代早、保存完整元代喇嘛教,三世佛石雕造像",
+                         "ways1":"拜太上老君，登智慧天阶。主要景点：众妙之门、西出函谷关、孔子问礼老子、道德经石刻群、老君岩、智慧天阶(涵宫、元元洞、见龙台、“ 道教圣地”摩崖石刻、无尘台、弘一法师塑像、弘一法师舍利塔)、千手岩等。这条线路是清源山景区的核心。老君造像，雕工精细，形态生动，须眉分明，衣褶清晰，是我国古代古雕艺术中的瑰宝，被誉为“老子天下第一”。 泉州坊间盛传“摸到老君鼻，寿高一百二”，故游清源山者必到此一游。游览时间大约2小时。",
+                         "ways2":"路线二: 步清幽小道，寻多元文化主要景点:势至岩、千手岩、弥陀岩、碧霄岩、瑞像岩等。这条线是清源山的精品线路，漫步清幽小径，轻踱莲花池畔，感受青山的幽雅，沿着一路的桂花香拾级而上，去寻访清源山的多元文化，在不经意间与历史撞个满怀。游览时间:大约3小时",
+                         "ways3":"路线三: 轻车盘山行，采风清源山.主要景点:青牛石、天湖、百丈坪、虎乳泉、清源洞、南台岩。这是清源山的经典线路，轻车慢行在柏油路上，领略清源秀景，俯瞰西湖风光，临风远眺，将大泉州美景尽收眼底，心旷神怡。游览时间:大约2小时。",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/xRiAhTweCLKPgQV.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/jFm4ywGNnUZxtSc.jpg",
+                         "imgUrl3":"https://i.loli.net/2019/08/09/F67VmAvwRNh92Jp.jpg",
+                         "imgUrl4":"https://i.loli.net/2019/08/09/E1w2a9jp3OkZuAL.jpg"
+                    },
+                    {
+                         "id":"quanzhouspot002",
+                         "titles":"泉州市武古城",
+                         "location":"福建省惠安县东南海滨",
+                         "dateTime":"3月1日-10月31日（夏季） 07:30-18:30；11月1日-次年2月29日（冬季） 07:30-17:30。",
+                         "service":"如实描述，低价保障，入园保障，特殊退订",
+                         "price":"36",
+                         "description":"系1387年（明洪武二十年）江夏侯周德兴经略海防时为抵御倭寇所建，是万里海疆修筑的60多座卫所城堡中仍保存完好的一座。 崇武古城是中国现存较完整的丁字型石砌古城，是明朝廷为抗击倭患，在万里海疆修筑的60多座卫所城堡中仍保存完好的一座。",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/YykeHd4rEwAIixD.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/mMXIxvsgedWoR9q.jpg",
+                         "imgUrl3":"https://i.loli.net/2019/08/09/EFLnjRdNhJ6Yp3l.jpg",
+                         "imgUrl4":"https://i.loli.net/2019/08/09/hYRZJwvEGfxkitg.jpg"
+                    },
+                    {
+                         "id":"quanzhouspot003",
+                         "titles":"晋江五市古城",
+                         "location":"泉州市晋江市梅岭街道五店市传统街区",
+                         "dateTime":"全体",
+                         "service":"如实描述，低价保障，入园保障，特殊退订",
+                         "price":"免费",
+                         "description":"五店市传统文化街区，坐落在许许多多高楼大厦之间，与现代城市文明形成鲜明的对比，就像一个历经沧桑却越发矍铄的老者，洞察着这个历史的变迁。走进五店街，踏着古老的石板路，在阳光的照耀下，穿过小巷穿过风，抚摸着那些岁月洗礼过的砖石，嘴里嚼着棉花糖，手里拿着小时候爱吃的东西，仿佛霎时间穿越了时光隧道，回到了那最无忧无虑的童年。这里的每一座房屋都有属于自己的故事，每一座都在诉说着最独特的闽南建筑学",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/MJOL24qBudaGQzF.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/TsNQci7obnu1GWR.jpg",
+                         "imgUrl3":"https://i.loli.net/2019/08/09/Pqvj5yLrIKfwTiB.jpg",
+                         "imgUrl4":"(https://i.loli.net/2019/08/09/dajWgx21TiYOvb3.jpg"
+                    },
+                    {
+                         "id":"quanzhouspot004",
+                         "titles":"惠安西沙湾",
+                         "location":"",
+                         "dateTime":"",
+                         "service":"",
+                         "price":"200",
+                         "description":"",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/NHeAS38kO14GpPU.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/hXMR967A3fNspWF.jpg",
+                         "imgUrl3":"https://i.loli.net/2019/08/09/U5laySArELZTRIP.jpg",
+                         "imgUrl4":"https://i.loli.net/2019/08/09/lJHnvhN6Tcf1i5M.jpg"
+                    }
+                    
+               ]
+          },
+          {
+               "types":"美食",
+               "datas":[
+                    {
+                         "id":"quanzhoufood001",
+                         "titles":"卤面",
+                         "location":"",
+                         "dateTime":"",
+                         "service":"",
+                         "price":"",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/GAHIDnfbijYsZ1N.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/8gzKxelGYdSoNVM.jpg",
+                         "imgUrl3":"https://i.loli.net/2019/08/09/tz6rFgKIuaYHTkS.jpg"
+                    },
+                    {
+                         "id":"quanzhoufood002",
+                         "titles":"洪濑",
+                         "location":"",
+                         "dateTime":"",
+                         "service":"",
+                         "price":"",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/6bXZfUwIa2QzMuq.jpg",
+                         "imgUrl2":"https://i.loli.net/2019/08/09/5EuMwGrHT7f9hsY.jpg",
+                         "imgUrl3":""
+                    },
+                    {
+                         "id":"quanzhoufood003",
+                         "titles":"满煎",
+                         "location":"",
+                         "dateTime":"",
+                         "service":"",
+                         "price":"",
+                         "imgUrl1":"https://i.loli.net/2019/08/09/5H2Eh3MFLDRw716.jpg",
+                         "imgUrl2":"",
+                         "imgUrl3":""
+                    },
+                    {
+                         "id":"quanzhoufood004",
+                         "titles":"肉粽",
+                         "location":"",
+                         "dateTime":"",
+                         "service":"",
+                         "price":"",
+                         "imgUrl1":"",
+                         "imgUrl2":"",
+                         "imgUrl3":""
+                    }
+                    
+                    
+                    
+
+               ]
+          }
+     ]
+
+     }
+     
+
+  
+	
+
+
+
+]

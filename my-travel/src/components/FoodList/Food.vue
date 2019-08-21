@@ -29,7 +29,6 @@
 
 
 <script>
-  import CartControl from '../CartControl/CartControl.vue'
 
   export default {
     props: {
@@ -48,9 +47,7 @@
       }
     },
 
-    components: {
-      CartControl
-    }
+  
   }
 </script>
 

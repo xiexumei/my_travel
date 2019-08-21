@@ -1,7 +1,7 @@
 <template>
 	<header class="header">
 		<div  name="location" class="header_location" @click="searchCity()">
-			<div>{{locationCity}} <i>8</i></div>
+			<div>{{position.city||locationCity}} <i>8</i></div>
 		
 		</div>
 		<a class="header_title">
@@ -20,12 +20,21 @@
 <script type="text/javascript">
  import BMap from 'BMap'	
  import {reqWeather} from '../../api'
+ import {mapState} from 'vuex'
  export default{
  	props:{
  		locationCity: String,
  		temperature: String,
  		weather: String
- 	}
+ 	},
+  computed:{
+   ...mapState(['position'])
+  },
+  methods:{
+    searchCity(){
+      return this.$router.push('/citys')
+    }
+  }
  	
  }
  
@@ -37,7 +46,7 @@
 
   * */
 </script>
-<style lang="stylus" rel="stylesheet/stylus" >
+<style lang="stylus" rel="stylesheet/stylus" scoped >
   .header
     background-color #1fab89
     position fixed

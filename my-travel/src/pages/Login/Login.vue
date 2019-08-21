@@ -90,6 +90,7 @@
         captcha: '', // 图形验证码
         alertText: '', // 提示文本
         alertShow: false, // 是否显示警告框
+
       }
     },
 
@@ -184,8 +185,16 @@
         if(result&&result.code===0) {
           const user = result.data
           // 将user保存到vuex的state
+          console.log(user)
+          var sessionStorage = window.sessionStorage
+          sessionStorage.setItem("username", user.username)
+          console.log(sessionStorage)
           this.$store.dispatch('recordUser', user)
+          //将当前的用户信息存到本地localStorage中
+          var userobj = "user"
+        
           // 去个人中心界面
+          console.log(1111)
           this.$router.replace('/profile')
         } else {
           // 显示新的图片验证码

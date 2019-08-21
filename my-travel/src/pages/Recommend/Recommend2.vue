@@ -3,22 +3,26 @@
 		<!--专属推荐-->
 		<div class="personal_recommend_section1">
 			<div class="personal_recommend">
-			<div class="personal_recommend_header">专属推荐<span class="personal_recommend_city">{{city.substring(0,2)}}</span>
+			<div class="personal_recommend_header">专属推荐<span class="personal_recommend_city">{{position.city||localCity}}</span>
 			</div>
 		    <div class="person-wrap_nav" ref="personWrap">
 			        <ul class="person-list" ref="personTab">
-			          <li class="person-item" v-for="(item, index) in categorys" :key="index" :class="{on: index === currentIndex}"   @click="clickMenuItem(item,index)">{{item.name}}</li>		       
+			          <li class="person-item" v-for="(item, index) in categorys" :key="index" :class="{on: index === currentIndex}"   @click="clickMenuItem(item.name,index)">{{item.name}}</li>		       
 			        </ul>
 			</div>
             <div class="person-wrap_list" ref="personList">
 			        <ul class="person-listshop" ref="personShopTab">
-			          <li class="person-shop">酒店</li>
-			          <li class="person-shop">门票</li>
-			          <li class="person-shop">当地玩乐</li>
-			          <li class="person-shop">跟团游</li>
-			          <li class="person-shop">定制旅行</li>
-			      
-			       
+			          <li tag='li' replace to="/recommend/detail" class="person-shop" v-for="(item, index) in newcategorysList.datas" :key="index" @click="gotoDeatail(item.id,index)">
+			          	<span class="red_nav">{{types}}</span>
+			          	<img class="red_img" :src="item.imgUrl1">
+			          	<div class="red_img_bottom">
+                         <div class="red_titles">{{item.titles}}</div>
+                         <div class="red_titles_price">
+                         	<span class="price">￥{{item.price}}</span>起
+                         </div>
+			          	</div>
+			          </li>
+
 			        </ul>
 	        </div>
 					
@@ -53,9 +57,7 @@
 			    </div>
 		    </div>
 		</div>
-		<keep-alive>
-			<router-view/>
-		</keep-alive>
+		
 	</div>
 </template>
 <script>
@@ -72,13 +74,14 @@
 	 			scrollX:0,
 	 			recommend_category:[],
 	 			currentIndex:0,
-	 			
+	 			types:"酒店",//保存点击时获取的类型
+	 			newcategorysList:[],//过滤掉不同类型的 			 			
 	 		}
 	 	},
 	 	
 		created() {
 
-		//创建左右滚动条
+		//创建滚动条
 	    this.$nextTick(() => {
 	 
 	      this.createScroll(this.$refs.personTab,this.$refs.personWrap)
@@ -87,11 +90,25 @@
 
 	    //渲染数据
 	    this.$store.dispatch('getRecommend')
+	     //一开始就调用这个请求推荐分类数据的方法
+           
+        
+	  },
+
+	  watch:{
+	  	city(){//最开始加载的时候没有点击默认渲染第一个类型的数据，一定要在拿到city值之后再发请求
+
+	    		var _this = this
+	    		_this.$nextTick(function(){
+	    			_this.clickMenuItem("酒店",0)			
+	    		})  	
+	  	}
 
 	  },
 
 	  computed:{
-	  	...mapState(['categorys'])
+	  	...mapState(['categorys','categorysList','position','localCity'])
+
 	  },
 
    methods: {
@@ -114,33 +131,43 @@
       });
     },
 
-    //点击当前的,传进来的index===当前的index就高亮
-    async clickMenuItem(item,index){  
-
-    	this.currentIndex = index
-    	const types = item.name
-        console.log(this.city,types)
-    	const result = await reqRecommendList(this.city,types);
+    //点击当前的
+    async clickMenuItem(name,index){  
+        var that = this
+    	this.currentIndex = index//设置点击高亮
+    	this.types = name
+        var cuCity = (this.position.city&&this.position.city)|| this.city.substring(0,2) ||'厦门'
+    	const result = await reqRecommendList(cuCity);
     
     	console.log(result)
         //将获取到的数据保存到vuex中
         if(result.code===0){
-        	var categorysList = result
-
-        	this.$store.dispatch('recordCategory',categorysList)
+        	var categorysListd = result.data.childArr
+        	this.$store.dispatch('recordCategory',categorysListd)
         }
-        
-    		  
+
+        //将从vuex中取到的数据过滤
+        var {categorysList} = this
+        console.log(categorysList)
+        that.newcategorysList=categorysList.find(function(item, index){
+           return item.types === that.types
+        })
+         		  
+    },
+
+    //点击下面的滚动条跳到详情页面
+    gotoDeatail(productId){
+        return this.$router.push({path:'/recommendDetail', query:{productId}}) //
     }
 
-    
+ 
     }
 
 
 
-	 }
+}
 </script>
-<style type="text/css">
+<style type="text/css" scoped>
 .personal_recommend_section1, .personal_recommend_section2,.personal_recommend_section3{
 	height: 220px;
 	margin-bottom: 8px;
@@ -164,7 +191,7 @@
 	top: -3px;
 	left: 5px;
 	display: inline-block;
-	width: 30px;
+	width: 50px;
 	height: 20px;
 	font-size: 12px;
 	text-align: center;
@@ -208,11 +235,15 @@
 
 .person-shop{
 	      display: inline-block;
-	      margin-top: -5px;
+	      margin-top: 2px;
+	      margin-right: 8px;
           width: 100px;
-          height: 140px;
+          height: 130px;
           border: 1px solid #ccc;
           border-radius: 5px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
 }
 .on{
 	background-color: #f9fd50;
@@ -235,5 +266,48 @@
 	border: 1px solid #ccc;
 	margin-left: 10px;
 	margin-top: 10px;
+}
+
+.red_img{
+	width: 99px;
+	height: 70px;
+	border-radius: 5px;
+}
+
+.red_price{
+	position: relative;
+	top: 50px;
+	left: -80px;
+}
+
+.red_img_bottom{
+	width: 100px;
+	height: 60px;
+	border: 1px solid #ccc;
+}
+.red_titles{
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	font-size: 16px;
+}
+.red_titles_price{
+	font-size: 14px;
+	color: #525252;
+}
+.price{
+	color: #ff502f;
+	font-size: 18px;
+}
+.red_nav{
+	position: absolute;
+	display: inline-block;
+	width: 30px;
+	height: 18px;
+	color: #fff;
+	font-size: 12px;
+	background-color: #525252;
+	opacity: 0.5;
+	
 }
 </style>

@@ -72,10 +72,11 @@
     	 //获取天气数据
 	        getWeather(){
 	            	
-	       /*	 var url = '/weat/index?format=2&cityname='+'厦门'+'&key=fb88e9750e246ccb03ffa878c6afbac6'
+	       	 var url = '/weat/index?format=2&cityname='+'厦门'+'&key=fb88e9750e246ccb03ffa878c6afbac6'
 				  this.$axios.get(url).then((res) => {
-				   
+				    
 				    var result = res.data.result
+				    console.log(result)
 				    this.weather1 = result.today.weather
 				    this.temperature1 = result.today.temperature
 				    this.wind = result.today.wind
@@ -114,7 +115,7 @@
 	       		item['最高温度']=maxTemperature[index]
 	       		item['最低温度']=minTemperature[index]
 	       	})
-	       	*/
+	       	
 	       	
 	       }
 	       
@@ -126,7 +127,7 @@
   }
 </script>
 
-<style>
+<style scoped>
 	.today{
 		width:100%;
 		height: 200px;
@@ -138,9 +139,6 @@
 	.backg{
 		width: 375px;
 		height: 667px;
-		background: url(./bg2.jpg) no-repeat;
-		background-size: 375px 690px;
-
 	}
 	.current_wind{
 		font-size: 16px;
